@@ -1,4 +1,4 @@
-public class ConditionControlFlow
+public class LearningConditional_ControlFlow
 {
     public static void main(String[] args) {
 
